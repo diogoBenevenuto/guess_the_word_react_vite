@@ -31,3 +31,5 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos de desenvolvi
 ## 👨‍💻 Autor
 
 Diogo Benevenuto
+
+<a href=https://diogobenevenuto.github.io/guess_the_word_react_vite/>Link to Play</a>
